@@ -1,0 +1,51 @@
+Parent: 94
+Children: 116 117
+Score: 13.125+/-1.24642
+Decision:
+-0.183079 Island
+-0.120784 Scalding Tarn
+-0.0973644 Mountain
+0.100028 Breeding Pool
+0.131135 Snow-Covered Mountain
+0.132758 Valakut, the Molten Pinnacle
+0.133874 Hunting Wilds
+0.141557 Misty Rainforest
+0.182122 Firespout
+0.199199 Peer Through Depths
+0.200463 Remand
+0.20081 Into the Roil
+0.205149 Snow-Covered Island
+0.244016 Stomping Ground
+0.248337 Steam Vents
+0.251131 Condescend
+0.265362 Sakura-Tribe Elder
+0.265805 Scapeshift
+0.265918 Coiling Oracle
+0.266882 Kitchen Finks
+0.266932 Snow-Covered Forest
+Composite:
+1.5 Island
+2 Breeding Pool
+2.625 Dread Return
+2.75 Verdant Catacombs
+2.75 Watery Grave
+2.75 Bloodghast
+2.875 Ideas Unbound
+3.125 Scalding Tarn
+3.25 Glimpse the Unthinkable
+3.5 Drowned Rusalka
+3.5 Golgari Grave-Troll
+3.5 Hedron Crab
+3.5 Narcomoeba
+3.5 Stinkweed Imp
+3.5 Bridge from Below
+4 Misty Rainforest
+Decks:
+7
+27
+29
+37
+43
+75
+82
+91

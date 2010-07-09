@@ -1,0 +1,58 @@
+Parent: 96
+Children: 100 101
+Score: 12.6+/-1.34164
+Decision:
+-0.200431 Spellstutter Sprite
+-0.180656 Ancestral Vision
+-0.156151 Mutavault
+-0.152443 Vendilion Clique
+-0.131906 Umezawa's Jitte
+-0.128041 Mountain
+-0.121332 Rune Snag
+-0.108944 Mana Leak
+-0.0967598 Spell Snare
+-0.094874 River of Tears
+0.0977428 Valakut, the Molten Pinnacle
+0.0990332 Flooded Grove
+0.106352 Rite of Flame
+0.106352 Seething Song
+0.110037 Ideas Unbound
+0.13884 Ponder
+0.142953 Ethereal Usher
+0.142953 Hive Mind
+0.142953 Pact of the Titan
+0.142953 Serum Visions
+0.143032 Summoner's Pact
+0.146833 Harrow
+0.172281 Stomping Ground
+0.178066 Forest
+0.179905 Firespout
+0.195231 Wood Elves
+0.195407 Sakura-Tribe Elder
+0.195574 Peer Through Depths
+0.195653 Scapeshift
+0.197474 Remand
+0.199039 Coiling Oracle
+0.266835 Steam Vents
+0.290477 Repeal
+Composite:
+1.2 Mana Leak
+1.2 Steam Vents
+1.6 Spell Snare
+1.6 Umezawa's Jitte
+1.6 Mutavault
+1.6 Rune Snag
+1.8 Misty Rainforest
+1.8 Vendilion Clique
+1.8 Cryptic Command
+2 Repeal
+2.2 Ancestral Vision
+2.4 Spellstutter Sprite
+2.8 Scalding Tarn
+8.2 Island
+Decks:
+26
+88
+90
+92
+95
